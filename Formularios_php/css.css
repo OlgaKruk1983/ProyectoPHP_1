@@ -1,0 +1,19 @@
+form{
+    border: dotted 3px;
+    border-color: brown;
+    border-radius: 10px;
+}
+
+input{
+    border: dotted 3px;
+}
+
+textarea{
+    border: dotted 3px;
+    border-color: brown;
+
+}
+
+
+
+
